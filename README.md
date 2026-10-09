@@ -1,35 +1,34 @@
 #  App de Caminhadas
 
-##  Sobre o projeto
-
-O App de Caminhadas é um aplicativo desenvolvido em Flutter que permite registrar caminhadas, visualizar trajetos no mapa e acompanhar informações sobre as atividades realizadas.
+Aplicativo mobile desenvolvido em Flutter para registrar caminhadas, visualizar trajetos no mapa e acompanhar as atividades realizadas.
 
 ##  Funcionalidades
 
 *  Visualização de trajetos no mapa.
 *  Registro de caminhadas.
-*  Cálculo da distância percorrida.
-*  Estimativa do tempo de caminhada.
+*  Distância percorrida.
+*  Estimativa do tempo.
 *  Estimativa de calorias gastas.
-*  Adição de fotos às caminhadas.
-*  Histórico de atividades salvas.
+*  Adição de fotos.
+*  Histórico de caminhadas.
 
-##  Tecnologias utilizadas
+##  Tecnologias
 
-* Flutter
-* Dart
+* Flutter e Dart
 * OpenStreetMap
 * Geolocator
 * SharedPreferences
 
-##  Download do aplicativo
+##  Download
 
-Acesse a página de versões para baixar o aplicativo para Android:
+### [ BAIXAR APP DE CAMINHADAS PARA ANDROID](https://github.com/marndefendi/App_caminhadas/releases/latest/download/app-release.apk)
 
-**[ Baixar App de Caminhadas](https://github.com/marndefendi/App_caminhadas/releases/latest)**
-
-Na página, procure o arquivo `app-release.apk` na seção de arquivos da versão publicada.
+Ao clicar no link, o download do arquivo APK será iniciado, desde que exista uma Release publicada com o arquivo `app-release.apk`.
 
 ##  Desenvolvedora
 
-Desenvolvido por [marndefendi](https://github.com/marndefendi).
+[marndefendi](https://github.com/marndefendi)
+
+##  Objetivo
+
+Projeto educacional para praticar desenvolvimento mobile, geolocalização e visualização de trajetos com Flutter.
