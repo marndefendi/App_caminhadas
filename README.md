@@ -21,9 +21,7 @@ Aplicativo mobile desenvolvido em Flutter para registrar caminhadas, visualizar 
 
 ##  Download
 
-### [ BAIXAR APP DE CAMINHADAS PARA ANDROID](https://github.com/marndefendi/App_caminhadas/releases/latest/download/app-release.apk)
-
-Ao clicar no link, o download do arquivo APK será iniciado, desde que exista uma Release publicada com o arquivo `app-release.apk`.
+### [Baixe o APP aqui](https://github.com/marndefendi/App_caminhadas/releases/latest/download/app-release.apk)
 
 ##  Desenvolvedora
 
